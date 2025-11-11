@@ -1,4 +1,4 @@
-#IRIS SPECIES CLASSIFICATION - Final Project
+**IRIS SPECIES CLASSIFICATION - Final Project**
 
 **Curso:** Minería de Datos — Unidad 3: Visualización de Datos  
 **Proyecto:** *Iris Species Classification*  
@@ -9,7 +9,7 @@
 
 ---
 
-##Descripción General
+**Descripción General**
 
 Este proyecto corresponde al **proyecto final de la materia de Minería de Datos**, cuyo objetivo es **entrenar un modelo de clasificación** capaz de predecir la especie de una flor *Iris* (Setosa, Versicolor o Virginica) a partir de sus características morfológicas:  
 - Longitud del sépalo  
@@ -26,7 +26,7 @@ El resultado se despliega en un **dashboard interactivo** construido con **Strea
 
 ---
 
-##Objetivos de Aprendizaje
+**Objetivos de Aprendizaje**
 
 Al finalizar esta actividad, el estudiante será capaz de:
 - Integrar conocimientos del curso en un flujo completo de minería de datos.
@@ -36,7 +36,7 @@ Al finalizar esta actividad, el estudiante será capaz de:
 
 ---
 
-##Flujo de Trabajo (Workflow)
+**Flujo de Trabajo (Workflow)**
 
 1. **Data Understanding:** Carga y análisis del dataset *Iris* desde `sklearn.datasets`.  
 2. **Preprocesamiento:** División *train-test* estratificada y estandarización con `StandardScaler`.  
@@ -47,7 +47,7 @@ Al finalizar esta actividad, el estudiante será capaz de:
 
 ---
 
-##Archivos del Proyecto
+**Archivos del Proyecto**
 
 | Archivo | Descripción |
 |----------|--------------|
@@ -60,7 +60,7 @@ Al finalizar esta actividad, el estudiante será capaz de:
 
 ---
 
-##Métricas del Modelo
+**Métricas del Modelo**
 
 | Métrica | Valor (aproximado) |
 |----------|--------------------|
@@ -73,7 +73,7 @@ Al finalizar esta actividad, el estudiante será capaz de:
 
 ---
 
-##Ejecución Local
+**Ejecución Local**
 
 1. Clona el repositorio o descárgalo en tu equipo:
    ```bash
