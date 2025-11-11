@@ -5,7 +5,7 @@
 **Integrantes:** Martínez Martínez Jesús, Teheran Gonzales Sebastián  
 **Grupo:** 10032  
 **Profesor:** José Escorcia Gutierrez, Ph.D.  
-**Universidad:** Universidad de la Costa  
+**Universidad:** Universidad de la Costa
 
 ---
 
